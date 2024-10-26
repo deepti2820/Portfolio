@@ -1,0 +1,45 @@
+[
+  
+  {
+    "name": "Instagram MERN",
+    "desc": "Built using MERN stack and realtime chat with the help of socket.iO. Introduce a cause profile feature where users can create and follow profiles dedicated to social causes participatig in events .",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Chat App",
+    "desc": "A real-time chat application built with the MERN stack, enabling users to connect, communicate, and share messages instantly.",
+    "image": "chatappmern",
+    "category": "mern",
+    "links": {
+      
+      "code": "https://github.com/deepti2820/ChatApp"
+    }
+  },
+  {
+    "name": "Food Delivery",
+    "desc": "An online food delivery platform built with the MERN stack, allowing users to browse, order, and track meals from local restaurants in real-time.",
+    "image": "fooddelivery",
+    "category": "mern",
+    "links": {
+      
+      "code": "https://github.com/deepti2820/FoodDelivery"
+    }
+  },
+  {
+    "name": "Ecommerce",
+    "desc": "A simple e-commerce website built using HTML, CSS, JavaScript, and Node.js for product browsing, cart management, and order processing.",
+    "image": "ecommerce",
+    "category": "basic web",
+    "links": {
+      
+      "code": "https://github.com/deepti2820/FoodDelivery"
+    }
+  }
+  
+  
+]
